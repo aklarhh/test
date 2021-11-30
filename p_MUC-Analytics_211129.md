@@ -15,3 +15,7 @@ Date: 29.11.21
     2. Second person reviews and accepts
     3. First person does squash and merge
 - Daily Standup
+
+[link](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+
